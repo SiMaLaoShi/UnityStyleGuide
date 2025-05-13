@@ -1,3 +1,8 @@
+## 语言 / Language
+
+[简体中文](./README.zh.md) | [English](./README.md)
+
+
 # Unity风格指南
 
 ### 关于文件结构、命名规范及其它事项
