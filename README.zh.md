@@ -14,20 +14,20 @@
 # 目录
 
 - 资源命名
-  - [文件夹](https://chat.q1.com/#folders)
-  - [源码](https://chat.q1.com/#source-code)
-  - [非代码资源](https://chat.q1.com/#non-code-assets)
+  - [文件夹](#folders)
+  - [源码](#source-code)
+  - [非代码资源](#non-code-assets)
 - 目录/文件结构
-  - [资源](https://chat.q1.com/#assets)
-  - [脚本](https://chat.q1.com/#scripts)
-  - [模型](https://chat.q1.com/#models)
+  - [资源](#assets)
+  - [脚本](#scripts)
+  - [模型](#models)
 - 工作流
-  - [模型](https://chat.q1.com/#models)
-  - [贴图](https://chat.q1.com/#textures)
-  - [配置文件](https://chat.q1.com/#configuration-files)
-  - [本地化](https://chat.q1.com/#localization)
-  - [音频](https://chat.q1.com/#audio)
-- [保持一致](https://chat.q1.com/#be-consistent)
+  - [模型](#models)
+  - [贴图](#textures)
+  - [配置文件](#configuration-files)
+  - [本地化](#localization)
+  - [音频](#audio)
+- [保持一致](#be-consistent)
 
 # 资源命名
 
